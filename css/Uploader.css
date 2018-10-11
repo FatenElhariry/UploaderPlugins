@@ -1,0 +1,11 @@
+div.wrapper-Uploader a{
+    font-size: 36px;
+    background-color: lightgray;
+    width: 100px;
+    height: 86px;
+}
+
+div.wrapper-Uploader  {
+    width: 100px;
+    height: 86px;
+}
